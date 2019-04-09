@@ -8,7 +8,6 @@ In these 26 Days work with the following resources:
 2. **Bonus materials** from industry experts to upskill your understanding on the topic and help you see in new light
 3. **Cheatsheets** for every topic to help you think in the nick of time
 4. **Reality anchoring tips** - once per Day - to keep you focussed on the common goal.
-5. Access to **career resources** to help fine tune your approach to the market and make you market ready.
 
 Below is a brief description of what a learner can expect from this program:
 
