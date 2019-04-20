@@ -5,7 +5,7 @@
 In these 26 Days work with the following resources:
 
 1. **Jupyter Notebooks** with code snippets relevant to the pertaining topic dedicated for the Day
-2. **Bonus materials** from industry experts to upskill your understanding on the topic and help you see in new light
+2. **Materials** to upskill your understanding on the topic and help you see in new light
 3. **Cheatsheets** for every topic to help you think in the nick of time
 4. **Reality anchoring tips** - once per Day - to keep you focussed on the common goal.
 
